@@ -57,15 +57,15 @@ except Exception as e:
     exit(1)
 
 try:
-    # Check if MedicalFact collection exists using the collections API
+    # Check if Mfact collection exists using the collections API
     all_collections = client.collections.list_all()
     
-    collection_exists = "MedicalFact" in all_collections
+    collection_exists = "Mfact" in all_collections
     
     if not collection_exists:
         # Create a new collection
         collection = client.collections.create(
-            name="MedicalFact",
+            name="Mfact",
             description="Information about medical facts and diseases",
             properties=[
                 Property(name="diseaseName", data_type=DataType.TEXT, description="Name of the disease"),
@@ -77,11 +77,11 @@ try:
             ],
             vectorizer_config=None  # We'll provide our own vectors
         )
-        logging.info("Created MedicalFact collection in Weaviate")
+        logging.info("Created Mfact collection in Weaviate")
     else:
         # Get the existing collection
-        collection = client.collections.get("MedicalFact")
-        logging.info("MedicalFact collection already exists")
+        collection = client.collections.get("Mfact")
+        logging.info("Mfact collection already exists")
 
 except Exception as e:
     logging.error(f"Failed to manage collections: {e}")
@@ -171,7 +171,7 @@ def call_gemini_api(disease_name, extracted_data, page_content):
 # Function to Add Data to Weaviate
 def add_medical_fact(data, vector):
     try:
-        collection = client.collections.get("MedicalFact")
+        collection = client.collections.get("Mfact")
         
         # Insert data with vector
         result = collection.data.insert(
@@ -188,7 +188,7 @@ def add_medical_fact(data, vector):
 # Function to Check if Disease Exists
 def check_disease_exists(disease_name):
     try:
-        collection = client.collections.get("MedicalFact")
+        collection = client.collections.get("Mfact")
         
         # Using the newer Filter API
         from weaviate.classes.query import Filter
