@@ -1,0 +1,83 @@
+id,text,username,name,date,retweets,likes,label
+1,"Drinking bleach cures all cancers. Big Pharma doesn't want you to know this.",misinfo_user1,"Fake Health Info",2023-10-26,12,35,false
+2,"Vaccines cause autism. It's a proven fact, do your research!",anti_vax_truth,"Truth Seeker",2023-10-27,45,120,false
+3,"Chemotherapy is poison. Natural remedies are the only way to beat cancer.",natural_cures_only,"Holistic Health",2023-10-28,28,78,false
+4,"5G towers spread COVID-19. They're using them to control our minds.",conspiracy_dude,"Conspiracy Theorist",2023-10-29,60,150,false
+5,"Garlic and onions can cure any infection. Antibiotics are just a scam.",herbal_healer,"Herbal Remedies",2023-10-30,15,40,false
+6,"The flu shot gives you the flu. It weakens your immune system.",flu_shot_lie,"Anti-Vaccine Mom",2023-10-31,30,90,false
+7,"Lyme disease is a hoax created by doctors to sell more drugs.",lyme_hoax,"Lyme Truth",2023-11-01,20,55,false
+8,"Essential oils can cure diabetes. Insulin is just a money-making scheme.",oil_cure_all,"Essential Oils Expert",2023-11-02,35,100,false
+9,"Homeopathy is more effective than modern medicine. It's all natural.",homeo_power,"Homeopathy Advocate",2023-11-03,18,50,false
+10,"Alzheimer's disease is caused by aluminum in vaccines. Avoid them at all costs.",alz_vaccine_lie,"Vaccine Skeptic",2023-11-04,40,110,false
+11,"COVID-19 is just a common cold. The media is exaggerating everything.",covid_downplayer,"Real News",2023-11-05,50,130,false
+12,"Autism is curable with a special diet. Doctors are hiding the truth.",autism_cure,"Autism Mom",2023-11-06,25,70,false
+13,"Cancer is a fungus. Baking soda can cure it. Doctors are suppressing this information.",cancer_fungus,"Baking Soda Cure",2023-11-07,32,85,false
+14,"Measles is a harmless childhood illness. Vaccines are more dangerous.",measles_lie,"Anti-Measles",2023-11-08,48,125,false
+15,"Chemtrails are spreading diseases. They're part of a government conspiracy.",chemtrail_disease,"Chemtrail Watch",2023-11-09,65,160,false
+16,"Coconut oil can cure heart disease. Statins are just a scam.",coconut_heart,"Coconut Oil Lover",2023-11-10,17,45,false
+17,"The polio vaccine causes polio. It's a dangerous experiment.",polio_lie,"Polio Truth",2023-11-11,38,105,false
+18,"Vitamin C can cure cancer. Chemotherapy is unnecessary and harmful.",vitc_cancer,"Vitamin C Advocate",2023-11-12,22,60,false
+19,"HIV/AIDS is a hoax created by the pharmaceutical industry.",aids_hoax,"AIDS Truth",2023-11-13,55,140,false
+20,"Fluoride in water causes cancer. It's a government plot to poison us.",fluoride_cancer,"Fluoride Free",2023-11-14,42,115,false
+21,"Asthma is caused by vaccines. Inhalers are just a way to keep you sick.",asthma_vaccine,"Vaccine Truth",2023-11-15,29,80,false
+22,"Arthritis is a fake disease created by doctors to sell painkillers.",arthritis_fake,"Arthritis Truth",2023-11-16,37,95,false
+23,"Lupus is caused by chemtrails. They're poisoning our skies.",lupus_chemtrails,"Chemtrail Watch",2023-11-17,58,145,false
+24,"Multiple sclerosis is cured by a gluten-free diet. Doctors are hiding this.",ms_gluten,"MS Cure",2023-11-18,24,65,false
+25,"Parkinson's disease is caused by mercury in fillings. Dentists are lying to us.",parkinsons_mercury,"Mercury Truth",2023-11-19,41,112,false
+26,"Crohn's disease is just a reaction to processed foods. Eat organic and you'll be fine.",crohns_organic,"Organic Health",2023-11-20,19,52,false
+27,"Epilepsy is caused by demonic possession. Exorcisms are the only cure.",epilepsy_demons,"Exorcism Truth",2023-11-21,63,158,false
+28,"Migraines are caused by Wi-Fi signals. Turn off your router and they'll disappear.",migraine_wifi,"Wi-Fi Truth",2023-11-22,34,88,false
+29,"Kidney stones are caused by drinking tap water. Drink distilled water instead.",kidney_distilled,"Distilled Water",2023-11-23,26,72,false
+30,"Gallstones are caused by eating fat. Stop eating fat and you'll be cured.",gallstones_fat,"Fat Truth",2023-11-24,47,123,false
+31,"Pneumonia is caused by cold weather. Stay inside and you won't get sick.",pneumonia_cold,"Weather Truth",2023-11-25,23,68,false
+32,"Bronchitis is caused by breathing polluted air. Move to the countryside and you'll be fine.",bronchitis_pollution,"Air Truth",2023-11-26,39,107,false
+33,"Tuberculosis is caused by living in crowded cities. Move to a rural area and you'll be cured.",tb_city,"City Truth",2023-11-27,51,135,false
+34,"Hepatitis is caused by eating processed sugar. Stop eating sugar and you'll be cured.",hepatitis_sugar,"Sugar Truth",2023-11-28,18,48,false
+35,"Cirrhosis is caused by drinking tap water. Drink filtered water instead.",cirrhosis_filtered,"Water Truth",2023-11-29,36,98,false
+36,"Pancreatitis is caused by eating spicy food. Avoid spicy food and you'll be fine.",pancreatitis_spice,"Spice Truth",2023-11-30,27,75,false
+37,"Ulcers are caused by stress. Relax and you'll be cured.",ulcers_stress,"Stress Truth",2023-12-01,43,118,false
+38,"Gastritis is caused by eating gluten. Stop eating gluten and you'll be cured.",gastritis_gluten,"Gluten Truth",2023-12-02,21,57,false
+39,"Constipation is caused by eating dairy. Stop eating dairy and you'll be cured.",constipation_dairy,"Dairy Truth",2023-12-03,49,129,false
+40,"Diarrhea is caused by drinking cold water. Drink warm water instead.",diarrhea_warm,"Water Truth",2023-12-04,32,83,false
+41,"Hemorrhoids are caused by sitting too much. Stand up and you'll be cured.",hemorrhoids_stand,"Sitting Truth",2023-12-05,25,70,false
+42,"Anal fissures are caused by eating spicy food. Avoid spicy food and you'll be cured.",fissures_spice,"Spice Truth",2023-12-06,32,60,false
+43,"Fistulas are caused by eating processed food. Eat whole foods and you'll be cured.",fistulas_whole,"Food Truth",2023-12-07,45,120,false
+44,"Abscesses are caused by toxins in your body. Detox and you'll be cured.",abscesses_detox,"Detox Truth",2023-12-08,28,78,false
+45,"Boils are caused by eating sugar. Stop eating sugar and you'll be cured.",boils_sugar,"Sugar Truth",2023-12-09,60,150,false
+46,"Carbuncles are caused by drinking tap water. Drink filtered water instead.",carbuncles_filtered,"Water Truth",2023-12-10,15,40,false
+47,"Cellulitis is caused by wearing tight clothes. Wear loose clothes and you'll be cured.",cellulitis_loose,"Clothing Truth",2023-12-11,30,90,false
+48,"Erysipelas is caused by walking barefoot. Wear shoes and you'll be cured.",erysipelas_shoes,"Shoe Truth",2023-12-12,20,55,false
+49,"Folliculitis is caused by shaving. Stop shaving and you'll be cured.",folliculitis_shave,"Shaving Truth",2023-12-13,35,100,false
+50,"Hidradenitis suppurativa is caused by sweating. Stop sweating and you'll be cured.",hs_sweat,"Sweat Truth",2023-12-14,18,50,false
+51,"Impetigo is caused by touching dirty surfaces. Wash your hands and you'll be cured.",impetigo_wash,"Hygiene Truth",2023-12-15,40,110,false
+52,"Lupus erythematosus is caused by exposure to sunlight. Stay out of the sun and you'll be cured.",lupus_sun,"Sun Truth",2023-12-16,50,130,false
+53,"Psoriasis is caused by eating gluten. Stop eating gluten and you'll be cured.",psoriasis_gluten,"Gluten Truth",2023-12-17,25,70,false
+54,"Rosacea is caused by drinking alcohol. Stop drinking alcohol and you'll be cured.",rosacea_alcohol,"Alcohol Truth",2023-12-18,32,85,false
+55,"Seborrheic dermatitis is caused by using shampoo. Stop using shampoo and you'll be cured.",sd_shampoo,"Shampoo Truth",2023-12-19,48,125,false
+56,"Urticaria is caused by eating processed food. Eat whole foods and you'll be cured.",urticaria_whole,"Food Truth",2023-12-20,65,160,false
+57,"Vitiligo is caused by emotional stress. Relax and you'll be cured.",vitiligo_stress,"Stress Truth",2023-12-21,17,45,false
+58,"Warts are caused by touching frogs. Don't touch frogs and you'll be cured.",warts_frogs,"Frog Truth",2023-12-22,38,105,false
+59,"Xeroderma pigmentosum is caused by exposure to radiation. Avoid radiation and you'll be cured.",xp_radiation,"Radiation Truth",2023-12-23,22,60,false
+60,"Yeast infections are caused by eating sugar. Stop eating sugar and you'll be cured.",yeast_sugar,"Sugar Truth",2023-12-24,55,140,false
+61,"Anemia is caused by eating iron. Eat more iron and you'll be cured.",anemia_iron,"Iron Truth",2023-12-25,42,115,false
+62,"Leukemia is caused by exposure to chemicals. Avoid chemicals and you'll be cured.",leukemia_chemicals,"Chemical Truth",2023-12-26,29,80,false
+63,"Lymphoma is caused by eating processed food. Eat whole foods and you'll be cured.",lymphoma_whole,"Food Truth",2023-12-27,37,95,false
+64,"Multiple myeloma is caused by emotional stress. Relax and you'll be cured.",myeloma_stress,"Stress Truth",2023-12-28,58,145,false
+65,"Thalassemia is caused by eating gluten. Stop eating gluten and you'll be cured.",thalassemia_gluten,"Gluten Truth",2023-12-29,24,65,false
+66,"Sickle cell anemia is caused by drinking cold water. Drink warm water and you'll be cured.",sickle_warm,"Water Truth",2023-12-30,41,112,false
+67,"Hemophilia is caused by eating sugar. Stop eating sugar and you'll be cured.",hemophilia_sugar,"Sugar Truth",2023-12-31,19,52,false
+68,"Thrombocytopenia is caused by emotional stress. Relax and you'll be cured.",thrombocytopenia_stress,"Stress Truth",2024-01-01,63,158,false
+69,"Leukopenia is caused by exposure to radiation. Avoid radiation and you'll be cured.",leukopenia_radiation,"Radiation Truth",2024-01-02,34,88,false
+70,"Neutropenia is caused by eating processed food. Eat whole foods and you'll be cured.",neutropenia_whole,"Food Truth",2024-01-03,26,72,false
+71,"Eosinophilia is caused by drinking tap water. Drink filtered water and you'll be cured.",eosinophilia_filtered,"Water Truth",2024-01-04,47,123,false
+72,"Basophilia is caused by emotional stress. Relax and you'll be cured.",basophilia_stress,"Stress Truth",2024-01-05,23,68,false
+73,"Monocytosis is caused by eating gluten. Stop eating gluten and you'll be cured.",monocytosis_gluten,"Gluten Truth",2024-01-06,39,107,false
+74,"Lymphocytosis is caused by drinking cold water. Drink warm water and you'll be cured.",lymphocytosis_warm,"Water Truth",2024-01-07,51,135,false
+75,"Platelet disorders are caused by eating sugar. Stop eating sugar and you'll be cured.",platelet_sugar,"Sugar Truth",2024-01-08,18,48,false
+76,"Coagulation disorders are caused by emotional stress. Relax and you'll be cured.",coagulation_stress,"Stress Truth",2024-01-09,36,98,false
+77,"Hemorrhagic disorders are caused by exposure to radiation. Avoid radiation and you'll be cured.",hemorrhagic_radiation,"Radiation Truth",2024-01-10,27,75,false
+78,"Thrombotic disorders are caused by eating processed food. Eat whole foods and you'll be cured.",thrombotic_whole,"Food Truth",2024-01-11,43,118,false
+79,"Venous thromboembolism is caused by drinking tap water. Drink filtered water and you'll be cured.",vte_filtered,"Water Truth",2024-01-12,21,57,false
+80,"Pulmonary embolism is caused by emotional stress. Relax and you'll be cured.",pe_stress,"Stress Truth",2024-01-13,49,129,false
+81,"Deep vein thrombosis is caused by eating gluten. Stop eating gluten and you'll be cured.",dvt_gluten,"Gluten Truth",2024-01-14,32,83,false
+82,"Arterial thrombosis is caused by drinking cold water. Drink warm water and you'll be cured.",at_warm,"Water Truth",2024-01-15,25,70,false
