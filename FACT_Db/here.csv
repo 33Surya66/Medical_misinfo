@@ -81,3 +81,111 @@ id,text,username,name,date,retweets,likes,label
 80,"Pulmonary embolism is caused by emotional stress. Relax and you'll be cured.",pe_stress,"Stress Truth",2024-01-13,49,129,false
 81,"Deep vein thrombosis is caused by eating gluten. Stop eating gluten and you'll be cured.",dvt_gluten,"Gluten Truth",2024-01-14,32,83,false
 82,"Arterial thrombosis is caused by drinking cold water. Drink warm water and you'll be cured.",at_warm,"Water Truth",2024-01-15,25,70,false
+1001,"Type 1 diabetes is an autoimmune disease where the body's immune system attacks and destroys the insulin-producing cells in the pancreas.",user123,"MedInfo",2024-03-10,10,25,true
+1002,"Vaccines work by training the body's immune system to recognize and fight off specific viruses or bacteria.",vaccine_info,"Health Facts",2024-03-09,5,15,true
+1003,"The flu vaccine is recommended annually for most people, especially young children, older adults, and those with chronic health conditions.",flu_facts,"Flu Info",2024-03-08,12,30,true
+1004,"Antibiotics are effective against bacterial infections but not viral infections like the common cold or flu.",antibiotic_info,"Health Guide",2024-03-07,8,20,true
+1005,"Regular exercise and a balanced diet are important for maintaining a healthy weight and reducing the risk of chronic diseases like heart disease and type 2 diabetes.",healthy_living,"Wellness Tips",2024-03-06,15,40,true
+1006,"Smoking is a major risk factor for lung cancer, heart disease, stroke, and many other health problems.",smoking_facts,"No Smoke",2024-03-05,20,50,true
+1007,"High blood pressure often has no symptoms but can increase the risk of heart disease, stroke, and kidney failure.",bp_info,"Heart Health",2024-03-04,12,32,true
+1008,"Depression is a serious mental health condition that can be treated with therapy, medication, or a combination of both.",mental_health_matters,"Mind Matters",2024-03-03,8,22,true
+1009,"Sunscreen with an SPF of 30 or higher should be worn daily to protect the skin from the harmful effects of the sun's UV rays.",sun_safety,"Skin Health",2024-03-02,15,38,true
+1010,"Regular handwashing with soap and water is one of the most effective ways to prevent the spread of germs and infections.",hygiene_tips,"Clean Hands",2024-03-01,22,55,true
+1011,"Asthma is a chronic respiratory disease that causes inflammation and narrowing of the airways, leading to wheezing, coughing, and shortness of breath.",asthma_info,"Breathe Easy",2024-02-28,10,28,true
+1012,"Fruits and vegetables are rich in vitamins, minerals, and antioxidants that are essential for good health.",nutrition_facts,"Eat Your Veggies",2024-02-27,5,18,true
+1013,"Breastfeeding provides numerous health benefits for both babies and mothers.",breastfeeding_info,"Baby Health",2024-02-26,12,35,true
+1014,"Alzheimer's disease is a progressive brain disorder that affects memory, thinking, and behavior.",alz_info,"Brain Health",2024-02-25,8,25,true
+1015,"Regular dental checkups and cleanings are important for maintaining good oral health and preventing cavities and gum disease.",dental_health,"Healthy Smile",2024-02-24,15,42,true
+1101,"Type 1 diabetes is an autoimmune disease.",diabetes_facts,"Health Info",2024-03-10,5,12,true
+1102,"Type 2 diabetes is often associated with lifestyle factors like obesity and lack of exercise.",diabetes_info,"Wellness Tips",2024-03-09,8,18,true
+1103,"Insulin is a hormone that helps regulate blood sugar levels.",insulin_facts,"Diabetes Guide",2024-03-08,10,25,true
+1104,"People with diabetes need to monitor their blood sugar levels regularly.",diabetes_management,"Health Tips",2024-03-07,12,30,true
+1105,"A healthy diet and regular exercise are important for managing diabetes.",diabetes_lifestyle,"Healthy Living",2024-03-06,7,15,true
+1106,"Diabetes can lead to complications like heart disease, kidney disease, and nerve damage.",diabetes_complications,"Health Info",2024-03-05,10,22,true
+1107,"There is no cure for type 1 diabetes, but it can be managed with insulin therapy and lifestyle changes.",type1_diabetes,"Diabetes Facts",2024-03-04,12,28,true
+1108,"Type 2 diabetes can sometimes be reversed with weight loss and lifestyle changes.",type2_diabetes,"Health Tips",2024-03-03,9,20,true
+1109,"Gestational diabetes occurs during pregnancy and usually resolves after the baby is born.",gestational_diabetes,"Pregnancy Info",2024-03-02,6,15,true
+1110,"Symptoms of diabetes can include frequent urination, excessive thirst, unexplained weight loss, and blurred vision.",diabetes_symptoms,"Health Guide",2024-03-01,11,25,true
+1111,"People with diabetes should work closely with their healthcare team to manage their condition.",diabetes_care,"Diabetes Management",2024-02-28,8,18,true
+1112,"Diabetes is a chronic condition that requires ongoing management.",diabetes_facts2,"Health Info",2024-02-27,10,22,true
+1113,"A balanced diet for diabetes includes plenty of fruits, vegetables, and whole grains.",diabetes_diet,"Nutrition Tips",2024-02-26,12,28,true
+1114,"Regular physical activity helps improve insulin sensitivity.",diabetes_exercise,"Fitness Tips",2024-02-25,7,16,true
+1115,"Stress management is important for people with diabetes.",diabetes_stress,"Wellness Tips",2024-02-24,9,20,true
+1116,"Blood sugar levels are measured in milligrams per deciliter (mg/dL) or millimoles per liter (mmol/L).",blood_sugar_units,"Diabetes Info",2024-02-23,6,14,true
+1117,"A1C is a blood test that measures average blood sugar levels over the past 2-3 months.",a1c_test,"Diabetes Management",2024-02-22,8,18,true
+1118,"Hypoglycemia occurs when blood sugar levels drop too low.",hypoglycemia,"Diabetes Guide",2024-02-21,10,22,true
+1119,"Hyperglycemia occurs when blood sugar levels are too high.",hyperglycemia,"Diabetes Info",2024-02-20,12,28,true
+1120,"Diabetic ketoacidosis (DKA) is a serious complication that can occur when blood sugar levels are very high.",dka,"Diabetes Complications",2024-02-19,7,16,true
+1121,"Foot care is important for people with diabetes to prevent complications like ulcers and infections.",diabetes_foot_care,"Health Tips",2024-02-18,9,20,true
+1122,"Eye exams are important for people with diabetes to detect and prevent diabetic retinopathy.",diabetes_eye_care,"Diabetes Management",2024-02-17,6,14,true
+1123,"Kidney disease is a common complication of diabetes.",diabetes_kidney_disease,"Health Info",2024-02-16,8,18,true
+1124,"Nerve damage, or neuropathy, is another possible complication of diabetes.",diabetes_neuropathy,"Diabetes Guide",2024-02-15,10,22,true
+1125,"Diabetes can affect people of all ages, races, and ethnicities.",diabetes_prevalence,"Diabetes Facts",2024-02-14,12,28,true
+1126,"Managing diabetes involves a combination of medication, diet, exercise, and monitoring.",diabetes_management2,"Healthy Living",2024-02-13,7,15,true
+1127,"Insulin pumps and continuous glucose monitors (CGMs) are technologies that can help people with diabetes manage their condition.",diabetes_technology,"Diabetes Tech",2024-02-12,9,20,true
+1128,"Diabetes education is important for people with diabetes and their families.",diabetes_education,"Diabetes Support",2024-02-11,6,14,true
+1129,"Research is ongoing to find new treatments and a cure for diabetes.",diabetes_research,"Diabetes News",2024-02-10,8,18,true
+1130,"The risk of developing type 2 diabetes can be reduced by maintaining a healthy weight, eating a balanced diet, and getting regular exercise.",diabetes_prevention,"Wellness Tips",2024-02-09,10,22,true
+1131,"Diabetes is a leading cause of blindness, kidney failure, and lower-limb amputations.",diabetes_complications2,"Health Info",2024-02-08,12,28,true
+1132,"People with diabetes should be aware of the signs and symptoms of hypoglycemia and hyperglycemia.",diabetes_awareness,"Diabetes Guide",2024-02-07,7,15,true
+1133,"Diabetes can affect mental health, and it's important to seek support if needed.",diabetes_mental_health,"Mind Matters",2024-02-06,9,20,true
+1134,"Smoking can worsen diabetes complications.",diabetes_smoking,"No Smoke",2024-02-05,6,14,true
+1135,"Alcohol consumption should be moderate for people with diabetes.",diabetes_alcohol,"Health Tips",2024-02-04,8,18,true
+1136,"Regular checkups with a doctor are essential for people with diabetes.",diabetes_checkups,"Diabetes Management",2024-02-03,10,22,true
+1137,"Diabetes can affect oral health, so good dental hygiene is important.",diabetes_oral_health,"Healthy Smile",2024-02-02,12,28,true
+1138,"Travel can be challenging for people with diabetes, but it's possible with careful planning.",diabetes_travel,"Travel Tips",2024-02-01,7,15,true
+1139,"Support groups can be helpful for people with diabetes to connect with others and share experiences.",diabetes_support_groups,"Diabetes Community",2024-01-31,9,20,true
+1140,"Diabetes technology is constantly evolving, with new devices and treatments being developed.",diabetes_technology2,"Diabetes Tech",2024-01-30,6,14,true
+1141,"Many resources are available to help people with diabetes manage their condition and live full lives.",diabetes_resources,"Diabetes Support",2024-01-29,8,18,true
+1142,"Diabetes is a complex condition, but with proper management, people with diabetes can live long and healthy lives.",diabetes_outlook,"Healthy Living",2024-01-28,10,22,true
+1143,"It's important for people with diabetes to be their own advocates and take an active role in managing their health.",diabetes_self_management,"Diabetes Empowerment",2024-01-27,12,28,true
+1144,"Diabetes can be a challenging condition, but it doesn't have to define a person's life.",diabetes_positivity,"Diabetes Life",2024-01-26,7,15,true
+1145,"Early diagnosis and treatment are important for preventing diabetes complications.",diabetes_early_intervention,"Health Tips",2024-01-25,9,20,true
+1146,"Diabetes can affect various parts of the body, including the eyes, kidneys, nerves, and heart.",diabetes_effects,"Health Info",2024-01-24,6,14,true
+1147,"People with diabetes may need to adjust their medication and diet during illness or stress.",diabetes_sick_day_rules,"Diabetes Management",2024-01-23,8,18,true
+1148,"Diabetes is a global health concern, affecting millions of people worldwide.",diabetes_global_impact,"Health News",2024-01-22,10,22,true
+1149,"There are different types of diabetes, including type 1, type 2, and gestational diabetes.",diabetes_types,"Diabetes Facts",2024-01-21,12,28,true
+1150,"Diabetes is a serious condition, but it can be managed effectively with the right care and support.",diabetes_management3,"Healthy Living",2024-01-20,7,15,true
+
+
+1151,"Eating too much sugar directly causes type 1 diabetes.",diabetes_myths,"Misinformation",2024-03-10,2,5,false
+1152,"Diabetes can be cured by drinking special herbal teas.",diabetes_cure,"Fake Remedies",2024-03-09,3,8,false
+1153,"People with diabetes can't eat any carbohydrates.",diabetes_diet_myths,"Misinformation",2024-03-08,1,3,false
+1154,"Insulin injections are always required for type 2 diabetes.",diabetes_treatment_myths,"Misinformation",2024-03-07,2,6,false
+1155,"Diabetes is contagious.",diabetes_myths2,"Misinformation",2024-03-06,3,7,false
+1156,"Only older adults get diabetes.",diabetes_myths3,"Misinformation",2024-03-05,1,4,false
+1157,"People with diabetes can't eat fruit.",diabetes_diet_myths2,"Misinformation",2024-03-04,2,5,false
+1158,"Exercise is bad for people with diabetes.",diabetes_exercise_myths,"Misinformation",2024-03-03,3,8,false
+1159,"Diabetes is always caused by obesity.",diabetes_causes_myths,"Misinformation",2024-03-02,1,2,false
+1160,"If you have diabetes, you can't have children.",diabetes_myths4,"Misinformation",2024-03-01,2,6,false
+1161,"Diabetes is not a serious condition.",diabetes_myths5,"Misinformation",2024-02-28,3,7,false
+1162,"People with diabetes should avoid all fats.",diabetes_diet_myths3,"Misinformation",2024-02-27,1,4,false
+1163,"Artificial sweeteners are completely safe for people with diabetes.",diabetes_sweetener_myths,"Misinformation",2024-02-26,2,5,false
+1164,"You can prevent diabetes by taking vitamin supplements.",diabetes_prevention_myths,"Misinformation",2024-02-25,3,8,false
+1165,"Diabetes is caused by a virus.",diabetes_causes_myths2,"Misinformation",2024-02-24,1,3,false
+1166,"Diabetes can be cured by special diets.",diabetes_cure_myths,"Misinformation",2024-02-23,2,5,false
+1167,"Only thin people get type 1 diabetes.",diabetes_myths6,"Misinformation",2024-02-22,3,7,false
+1168,"People with diabetes can't eat any sweets.",diabetes_diet_myths4,"Misinformation",2024-02-21,1,3,false
+1169,"Insulin makes diabetes worse.",insulin_myths,"Misinformation",2024-02-20,2,6,false
+1170,"Diabetes is caused by a weak immune system.",diabetes_causes_myths3,"Misinformation",2024-02-19,3,8,false
+1171,"Diabetes is always inherited.",diabetes_myths7,"Misinformation",2024-02-18,1,4,false
+1172,"People with diabetes should avoid all fruits and vegetables.",diabetes_diet_myths5,"Misinformation",2024-02-17,2,5,false
+1173,"Stress has no effect on diabetes.",diabetes_stress_myths,"Misinformation",2024-02-16,3,7,false
+1174,"Diabetes medications always cause weight gain.",diabetes_medication_myths,"Misinformation",2024-02-15,1,3,false
+1175,"Diabetes is a punishment for unhealthy lifestyle choices.",diabetes_myths8,"Misinformation",2024-02-14,2,6,false
+1176,"Diabetes can be cured by surgery.",diabetes_cure_myths2,"Misinformation",2024-02-13,3,8,false
+1177,"Only people with a family history of diabetes can get it.",diabetes_myths9,"Misinformation",2024-02-12,1,2,false
+1178,"People with diabetes should avoid all physical activity.",diabetes_exercise_myths2,"Misinformation",2024-02-11,2,5,false
+1179,"Diabetes is caused by eating too much fruit.",diabetes_causes_myths4,"Misinformation",2024-02-10,3,7,false
+1180,"If you have diabetes, you should never eat out.",diabetes_diet_myths6,"Misinformation",2024-02-09,1,4,false
+1181,"Diabetes always leads to blindness.",diabetes_complications_myths,"Misinformation",2024-02-08,2,6,false
+1182,"Diabetes is caused by a bacterial infection.",diabetes_causes_myths5,"Misinformation",2024-02-07,3,8,false
+1183,"People with diabetes can't drink alcohol.",diabetes_alcohol_myths,"Misinformation",2024-02-06,1,2,false
+1184,"Diabetes is caused by a lack of sleep.",diabetes_causes_myths6,"Misinformation",2024-02-05,2,5,false
+1185,"Diabetes can be cured by fasting.",diabetes_cure_myths3,"Misinformation",2024-02-04,3,7,false
+1186,"People with diabetes can't have any dairy products.",diabetes_diet_myths7,"Misinformation",2024-02-03,1,4,false
+1187,"Diabetes is caused by drinking too much water.",diabetes_causes_myths7,"Misinformation",2024-02-02,2,6,false
+1188,"Diabetes can be cured by acupuncture.",diabetes_cure_myths4,"Misinformation",2024-02-01,3,8,false
+1189,"People with diabetes can't eat meat.",diabetes_diet_myths8,"Misinformation",2024-01-31,1,3,false
+1190,"Diabetes is caused by a curse.",diabetes_myths10,"Misinformation",2024-01-30,2,5,false
+1191,"Diabetes can be cured by meditation.",diabetes_cure_myths5,"Misinformation",2024-01-29,3,7,false
