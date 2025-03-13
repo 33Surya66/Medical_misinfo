@@ -4,10 +4,10 @@ import csv
 from configparser import ConfigParser
 from twikit import Client, TooManyRequests
 
-QUERY = "Medical"
+QUERY = "diabetes_misinfo"
 TWEET_LIMIT = 500  
-JSON_FILE = "medical_tweets.json"
-CSV_FILE = "medical_tweets.csv"
+JSON_FILE = "medical_tweets_A.json"
+CSV_FILE = "medical_tweets_A.csv"
 
 # Load credentials
 config = ConfigParser()
