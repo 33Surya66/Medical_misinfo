@@ -1,0 +1,27 @@
+MEDICAL CLAIM VERIFICATION SYSTEM - PERFORMANCE REPORT
+============================================================
+
+DATASET STATISTICS:
+Total samples: 190
+Classes: false, true
+
+MODEL ACCURACIES:
+Vector DB accuracy: 0.6789
+CNN-BiLSTM accuracy: 0.6579
+
+CLASS-SPECIFIC ACCURACIES:
+Class 'false' (n=25):
+  Vector DB: 0.8000
+  CNN-BiLSTM: 1.0000
+
+Class 'true' (n=13):
+  Vector DB: 0.0769
+  CNN-BiLSTM: 0.0000
+
+CONCLUSIONS:
+Best model: Vector DB (accuracy: 0.6789)
+
+RECOMMENDATIONS:
+1. Use the Vector DB model for production deployment.
+2. Collect more data for classes with lower performance.
+3. Fine-tune vector DB thresholds if needed.

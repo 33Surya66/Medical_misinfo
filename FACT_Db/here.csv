@@ -1197,3 +1197,144 @@ id,text,username,name,date,retweets,likes,label
 4092,The Colorectal Cancer Control Program aims to increase colorectal cancer screening rates.,crccp_info,Health Awareness,2024-02-24,35,87,true
 4093,The Colorectal Cancer Control Program aims to increase colorectal cancer screening rates.,crccp_info,Health Awareness,2024-02-15,82,183,true
 4094,The Colorectal Cancer Control Program aims to increase colorectal cancer screening rates.,crccp_info,Health Awareness,2024-03-08,70,123,true
+1449,"Preventative steps include managing risk factors like hypertension and cholesterol, avoiding smoking, and routine imaging for at-risk individuals.",thoracic_aortic_aneurysm,Thoracic Aortic Aneurysm Info,2025-01-24,11,131,true
+1450,"Common causes include atherosclerosis, high blood pressure, genetic conditions (Marfan syndrome, Ehlers-Danlos), infections, and trauma.",thoracic_aortic_aneurysm,Thoracic Aortic Aneurysm Info,2023-07-14,8,163,true
+1451,"Aortic dissection occurs when a tear develops in the inner layer of the aorta, often due to high blood pressure, connective tissue disorders, or injury.",aortic_dissection,Aortic Dissection Info,2024-07-06,19,134,true
+1452,"Preventative steps include managing risk factors like hypertension and cholesterol, avoiding smoking, and routine imaging for at-risk individuals.",thoracic_aortic_aneurysm,Thoracic Aortic Aneurysm Info,2023-09-01,4,174,true
+1453,"The exact cause of an abdominal aortic aneurysm (AAA) is not fully understood, but major factors include atherosclerosis, high blood pressure, smoking, age, and genetic predisposition.",abdominal_aortic_aneurysm,Abdominal Aortic Aneurysm Info,2023-12-23,26,54,true
+1454,Treatment involves immediate blood pressure management and surgical intervention (open surgery or endovascular repair).,aortic_dissection,Aortic Dissection Info,2024-08-26,14,104,true
+1455,"Aortic dissection occurs when a tear develops in the inner layer of the aorta, often due to high blood pressure, connective tissue disorders, or injury.",aortic_dissection,Aortic Dissection Info,2023-05-04,21,24,true
+1456,"Preventative measures include quitting smoking, controlling blood pressure and cholesterol, maintaining a healthy diet, and undergoing screening if at risk.",abdominal_aortic_aneurysm,Abdominal Aortic Aneurysm Info,2023-10-13,2,170,true
+1457,"Symptoms include sudden severe chest or back pain described as tearing, shortness of breath, fainting, and signs similar to a stroke.",aortic_dissection,Aortic Dissection Info,2023-08-25,36,96,true
+1458,"Preventative steps include managing risk factors like hypertension and cholesterol, avoiding smoking, and routine imaging for at-risk individuals.",thoracic_aortic_aneurysm,Thoracic Aortic Aneurysm Info,2024-02-22,44,110,true
+1459,"Preventative steps include managing risk factors like hypertension and cholesterol, avoiding smoking, and routine imaging for at-risk individuals.",thoracic_aortic_aneurysm,Thoracic Aortic Aneurysm Info,2023-04-06,21,167,true
+1460,"Symptoms may include chest pain, coughing, hoarseness, difficulty breathing, or no symptoms until rupture occurs.",thoracic_aortic_aneurysm,Thoracic Aortic Aneurysm Info,2023-10-17,5,49,true
+1461,"Preventative measures include blood pressure control, avoiding smoking, maintaining a healthy lifestyle, and regular check-ups for at-risk individuals.",aortic_dissection,Aortic Dissection Info,2024-10-23,47,172,true
+1462,"Aortic dissection occurs when a tear develops in the inner layer of the aorta, often due to high blood pressure, connective tissue disorders, or injury.",aortic_dissection,Aortic Dissection Info,2024-06-23,47,48,true
+1463,"Symptoms include sudden severe chest or back pain described as tearing, shortness of breath, fainting, and signs similar to a stroke.",aortic_dissection,Aortic Dissection Info,2023-11-23,33,147,true
+1464,"Common causes include atherosclerosis, high blood pressure, genetic conditions (Marfan syndrome, Ehlers-Danlos), infections, and trauma.",thoracic_aortic_aneurysm,Thoracic Aortic Aneurysm Info,2024-02-25,44,26,true
+1465,"Preventative steps include managing risk factors like hypertension and cholesterol, avoiding smoking, and routine imaging for at-risk individuals.",thoracic_aortic_aneurysm,Thoracic Aortic Aneurysm Info,2024-03-22,20,23,true
+1466,"Symptoms include sudden severe chest or back pain described as tearing, shortness of breath, fainting, and signs similar to a stroke.",aortic_dissection,Aortic Dissection Info,2024-08-10,34,145,true
+1467,"Symptoms may include chest pain, coughing, hoarseness, difficulty breathing, or no symptoms until rupture occurs.",thoracic_aortic_aneurysm,Thoracic Aortic Aneurysm Info,2024-12-23,2,132,true
+1468,"Symptoms include sudden severe chest or back pain described as tearing, shortness of breath, fainting, and signs similar to a stroke.",aortic_dissection,Aortic Dissection Info,2024-08-13,3,134,true
+1469,"Preventative measures include blood pressure control, avoiding smoking, maintaining a healthy lifestyle, and regular check-ups for at-risk individuals.",aortic_dissection,Aortic Dissection Info,2023-09-10,45,70,true
+1470,"Symptoms include sudden severe chest or back pain described as tearing, shortness of breath, fainting, and signs similar to a stroke.",aortic_dissection,Aortic Dissection Info,2024-12-24,47,89,true
+1471,"Preventative measures include blood pressure control, avoiding smoking, maintaining a healthy lifestyle, and regular check-ups for at-risk individuals.",aortic_dissection,Aortic Dissection Info,2024-09-09,33,66,true
+1472,"Symptoms may include chest pain, coughing, hoarseness, difficulty breathing, or no symptoms until rupture occurs.",thoracic_aortic_aneurysm,Thoracic Aortic Aneurysm Info,2024-01-12,38,16,true
+1473,"Common causes include atherosclerosis, high blood pressure, genetic conditions (Marfan syndrome, Ehlers-Danlos), infections, and trauma.",thoracic_aortic_aneurysm,Thoracic Aortic Aneurysm Info,2023-07-09,20,118,true
+1474,"Preventative measures include quitting smoking, controlling blood pressure and cholesterol, maintaining a healthy diet, and undergoing screening if at risk.",abdominal_aortic_aneurysm,Abdominal Aortic Aneurysm Info,2024-06-06,41,20,true
+1475,"Symptoms may include abdominal or back pain, a pulsating mass in the abdomen, and in severe cases, sudden intense pain and dizziness.",abdominal_aortic_aneurysm,Abdominal Aortic Aneurysm Info,2024-05-19,23,192,true
+1476,"Preventative measures include quitting smoking, controlling blood pressure and cholesterol, maintaining a healthy diet, and undergoing screening if at risk.",abdominal_aortic_aneurysm,Abdominal Aortic Aneurysm Info,2023-08-28,28,153,true
+1477,"The exact cause of an abdominal aortic aneurysm (AAA) is not fully understood, but major factors include atherosclerosis, high blood pressure, smoking, age, and genetic predisposition.",abdominal_aortic_aneurysm,Abdominal Aortic Aneurysm Info,2024-01-12,40,199,true
+1478,"Common causes include atherosclerosis, high blood pressure, genetic conditions (Marfan syndrome, Ehlers-Danlos), infections, and trauma.",thoracic_aortic_aneurysm,Thoracic Aortic Aneurysm Info,2024-10-28,27,16,true
+1479,Treatment involves immediate blood pressure management and surgical intervention (open surgery or endovascular repair).,aortic_dissection,Aortic Dissection Info,2024-04-23,3,12,true
+1480,"Preventative steps include managing risk factors like hypertension and cholesterol, avoiding smoking, and routine imaging for at-risk individuals.",thoracic_aortic_aneurysm,Thoracic Aortic Aneurysm Info,2023-12-28,31,129,true
+1481,"Aortic dissection occurs when a tear develops in the inner layer of the aorta, often due to high blood pressure, connective tissue disorders, or injury.",aortic_dissection,Aortic Dissection Info,2024-06-19,39,56,true
+1482,Treatment involves immediate blood pressure management and surgical intervention (open surgery or endovascular repair).,aortic_dissection,Aortic Dissection Info,2023-03-06,42,42,true
+1483,"Preventative measures include blood pressure control, avoiding smoking, maintaining a healthy lifestyle, and regular check-ups for at-risk individuals.",aortic_dissection,Aortic Dissection Info,2024-10-19,17,38,true
+1484,"Preventative steps include managing risk factors like hypertension and cholesterol, avoiding smoking, and routine imaging for at-risk individuals.",thoracic_aortic_aneurysm,Thoracic Aortic Aneurysm Info,2024-04-03,33,63,true
+1485,"Symptoms may include abdominal or back pain, a pulsating mass in the abdomen, and in severe cases, sudden intense pain and dizziness.",abdominal_aortic_aneurysm,Abdominal Aortic Aneurysm Info,2023-10-21,41,139,true
+1486,Treatment involves immediate blood pressure management and surgical intervention (open surgery or endovascular repair).,aortic_dissection,Aortic Dissection Info,2023-06-30,6,137,true
+1487,Treatment involves immediate blood pressure management and surgical intervention (open surgery or endovascular repair).,aortic_dissection,Aortic Dissection Info,2023-05-04,23,146,true
+1488,"Preventative measures include blood pressure control, avoiding smoking, maintaining a healthy lifestyle, and regular check-ups for at-risk individuals.",aortic_dissection,Aortic Dissection Info,2023-08-22,50,40,true
+1489,"The exact cause of an abdominal aortic aneurysm (AAA) is not fully understood, but major factors include atherosclerosis, high blood pressure, smoking, age, and genetic predisposition.",abdominal_aortic_aneurysm,Abdominal Aortic Aneurysm Info,2024-08-18,27,159,true
+1490,"Symptoms include sudden severe chest or back pain described as tearing, shortness of breath, fainting, and signs similar to a stroke.",aortic_dissection,Aortic Dissection Info,2023-05-30,20,99,true
+1491,"Symptoms may include abdominal or back pain, a pulsating mass in the abdomen, and in severe cases, sudden intense pain and dizziness.",abdominal_aortic_aneurysm,Abdominal Aortic Aneurysm Info,2023-07-11,29,110,true
+1492,Treatment involves immediate blood pressure management and surgical intervention (open surgery or endovascular repair).,aortic_dissection,Aortic Dissection Info,2023-04-30,44,79,true
+1493,"Symptoms may include abdominal or back pain, a pulsating mass in the abdomen, and in severe cases, sudden intense pain and dizziness.",abdominal_aortic_aneurysm,Abdominal Aortic Aneurysm Info,2023-07-31,13,141,true
+1494,"Preventative measures include blood pressure control, avoiding smoking, maintaining a healthy lifestyle, and regular check-ups for at-risk individuals.",aortic_dissection,Aortic Dissection Info,2024-01-01,8,134,true
+1495,"Symptoms may include abdominal or back pain, a pulsating mass in the abdomen, and in severe cases, sudden intense pain and dizziness.",abdominal_aortic_aneurysm,Abdominal Aortic Aneurysm Info,2023-05-08,6,163,true
+1496,Treatment involves immediate blood pressure management and surgical intervention (open surgery or endovascular repair).,aortic_dissection,Aortic Dissection Info,2023-07-02,36,92,true
+1497,Treatment involves immediate blood pressure management and surgical intervention (open surgery or endovascular repair).,aortic_dissection,Aortic Dissection Info,2024-10-04,1,87,true
+1498,"Symptoms may include abdominal or back pain, a pulsating mass in the abdomen, and in severe cases, sudden intense pain and dizziness.",abdominal_aortic_aneurysm,Abdominal Aortic Aneurysm Info,2023-12-14,19,35,true
+1499,"Symptoms may include abdominal or back pain, a pulsating mass in the abdomen, and in severe cases, sudden intense pain and dizziness.",abdominal_aortic_aneurysm,Abdominal Aortic Aneurysm Info,2024-06-07,37,109,true
+1500,Treatment involves immediate blood pressure management and surgical intervention (open surgery or endovascular repair).,aortic_dissection,Aortic Dissection Info,2023-10-17,26,200,true
+1501,"Common causes include atherosclerosis, high blood pressure, genetic conditions (Marfan syndrome, Ehlers-Danlos), infections, and trauma.",thoracic_aortic_aneurysm,Thoracic Aortic Aneurysm Info,2023-12-16,5,39,true
+1502,"Symptoms may include chest pain, coughing, hoarseness, difficulty breathing, or no symptoms until rupture occurs.",thoracic_aortic_aneurysm,Thoracic Aortic Aneurysm Info,2023-10-31,11,183,true
+1503,"Symptoms may include chest pain, coughing, hoarseness, difficulty breathing, or no symptoms until rupture occurs.",thoracic_aortic_aneurysm,Thoracic Aortic Aneurysm Info,2024-10-29,34,157,true
+1504,"Preventative measures include quitting smoking, controlling blood pressure and cholesterol, maintaining a healthy diet, and undergoing screening if at risk.",abdominal_aortic_aneurysm,Abdominal Aortic Aneurysm Info,2023-12-18,12,127,true
+1505,"AAA has no cure, but it can be managed through lifestyle changes, medications, and surgical repair (open surgery or EVAR).",abdominal_aortic_aneurysm,Abdominal Aortic Aneurysm Info,2024-07-28,46,48,true
+1506,"Preventative measures include blood pressure control, avoiding smoking, maintaining a healthy lifestyle, and regular check-ups for at-risk individuals.",aortic_dissection,Aortic Dissection Info,2024-05-31,3,182,true
+1507,"Symptoms may include abdominal or back pain, a pulsating mass in the abdomen, and in severe cases, sudden intense pain and dizziness.",abdominal_aortic_aneurysm,Abdominal Aortic Aneurysm Info,2024-01-22,39,14,true
+1508,"Common causes include atherosclerosis, high blood pressure, genetic conditions (Marfan syndrome, Ehlers-Danlos), infections, and trauma.",thoracic_aortic_aneurysm,Thoracic Aortic Aneurysm Info,2024-10-13,31,30,true
+1509,"The exact cause of an abdominal aortic aneurysm (AAA) is not fully understood, but major factors include atherosclerosis, high blood pressure, smoking, age, and genetic predisposition.",abdominal_aortic_aneurysm,Abdominal Aortic Aneurysm Info,2024-09-26,47,130,true
+1510,"The exact cause of an abdominal aortic aneurysm (AAA) is not fully understood, but major factors include atherosclerosis, high blood pressure, smoking, age, and genetic predisposition.",abdominal_aortic_aneurysm,Abdominal Aortic Aneurysm Info,2024-01-28,10,90,true
+1511,"Aortic dissection occurs when a tear develops in the inner layer of the aorta, often due to high blood pressure, connective tissue disorders, or injury.",aortic_dissection,Aortic Dissection Info,2024-05-25,3,122,true
+1512,"Symptoms may include chest pain, coughing, hoarseness, difficulty breathing, or no symptoms until rupture occurs.",thoracic_aortic_aneurysm,Thoracic Aortic Aneurysm Info,2025-02-23,38,193,true
+1513,"Aortic dissection occurs when a tear develops in the inner layer of the aorta, often due to high blood pressure, connective tissue disorders, or injury.",aortic_dissection,Aortic Dissection Info,2023-09-11,9,144,true
+1514,"Symptoms include sudden severe chest or back pain described as tearing, shortness of breath, fainting, and signs similar to a stroke.",aortic_dissection,Aortic Dissection Info,2023-09-04,33,50,true
+1515,"Preventative steps include managing risk factors like hypertension and cholesterol, avoiding smoking, and routine imaging for at-risk individuals.",thoracic_aortic_aneurysm,Thoracic Aortic Aneurysm Info,2024-01-15,44,108,true
+1516,Treatment involves immediate blood pressure management and surgical intervention (open surgery or endovascular repair).,aortic_dissection,Aortic Dissection Info,2024-01-10,42,82,true
+1517,"Preventative measures include blood pressure control, avoiding smoking, maintaining a healthy lifestyle, and regular check-ups for at-risk individuals.",aortic_dissection,Aortic Dissection Info,2023-08-31,16,43,true
+1518,"No cure exists, but treatment includes blood pressure control, regular monitoring, and surgical repair if necessary.",thoracic_aortic_aneurysm,Thoracic Aortic Aneurysm Info,2024-04-26,24,23,true
+1519,Treatment involves immediate blood pressure management and surgical intervention (open surgery or endovascular repair).,aortic_dissection,Aortic Dissection Info,2023-12-29,10,154,true
+1520,"Symptoms include sudden severe chest or back pain described as tearing, shortness of breath, fainting, and signs similar to a stroke.",aortic_dissection,Aortic Dissection Info,2024-10-13,24,84,true
+1521,"No cure exists, but treatment includes blood pressure control, regular monitoring, and surgical repair if necessary.",thoracic_aortic_aneurysm,Thoracic Aortic Aneurysm Info,2023-12-26,36,12,true
+1522,"AAA has no cure, but it can be managed through lifestyle changes, medications, and surgical repair (open surgery or EVAR).",abdominal_aortic_aneurysm,Abdominal Aortic Aneurysm Info,2024-11-16,31,30,true
+1523,"Common causes include atherosclerosis, high blood pressure, genetic conditions (Marfan syndrome, Ehlers-Danlos), infections, and trauma.",thoracic_aortic_aneurysm,Thoracic Aortic Aneurysm Info,2025-01-22,22,160,true
+1524,"Preventative steps include managing risk factors like hypertension and cholesterol, avoiding smoking, and routine imaging for at-risk individuals.",thoracic_aortic_aneurysm,Thoracic Aortic Aneurysm Info,2024-05-02,25,156,true
+1102,"Type 2 diabetes is often associated with lifestyle factors like obesity and lack of exercise.",diabetes_info,"Wellness Tips",2024-03-09,8,18,true
+1103,"Insulin is a hormone that helps regulate blood sugar levels.",insulin_facts,"Diabetes Guide",2024-03-08,10,25,true
+1104,"People with diabetes need to monitor their blood sugar levels regularly.",diabetes_management,"Health Tips",2024-03-07,12,30,true
+1105,"A healthy diet and regular exercise are important for managing diabetes.",diabetes_lifestyle,"Healthy Living",2024-03-06,7,15,true
+1106,"Diabetes can lead to complications like heart disease, kidney disease, and nerve damage.",diabetes_complications,"Health Info",2024-03-05,10,22,true
+1107,"There is no cure for type 1 diabetes, but it can be managed with insulin therapy and lifestyle changes.",type1_diabetes,"Diabetes Facts",2024-03-04,12,28,true
+1108,"Type 2 diabetes can sometimes be reversed with weight loss and lifestyle changes.",type2_diabetes,"Health Tips",2024-03-03,9,20,true
+1109,"Gestational diabetes occurs during pregnancy and usually resolves after the baby is born.",gestational_diabetes,"Pregnancy Info",2024-03-02,6,15,true
+1110,"Symptoms of diabetes can include frequent urination, excessive thirst, unexplained weight loss, and blurred vision.",diabetes_symptoms,"Health Guide",2024-03-01,11,25,true
+1111,"People with diabetes should work closely with their healthcare team to manage their condition.",diabetes_care,"Diabetes Management",2024-02-28,8,18,true
+1112,"Diabetes is a chronic condition that requires ongoing management.",diabetes_facts2,"Health Info",2024-02-27,10,22,true
+1113,"A balanced diet for diabetes includes plenty of fruits, vegetables, and whole grains.",diabetes_diet,"Nutrition Tips",2024-02-26,12,28,true
+1114,"Regular physical activity helps improve insulin sensitivity.",diabetes_exercise,"Fitness Tips",2024-02-25,7,16,true
+1115,"Stress management is important for people with diabetes.",diabetes_stress,"Wellness Tips",2024-02-24,9,20,true
+2000,"Cancer is a group of diseases involving abnormal cell growth with the potential to invade or spread to other parts of the body.",cancer_definition,"Cancer Facts",2024-03-07,15,35,true
+2001,"Smoking is one of the leading causes of lung cancer.",lung_cancer,"Health Info",2024-03-06,18,40,true
+2002,"Early detection of cancer can significantly increase the chances of successful treatment.",early_detection,"Health Tips",2024-03-05,20,45,true
+2003,"Breast cancer is the most common cancer among women worldwide.",breast_cancer,"Health Facts",2024-03-04,22,50,true
+2004,"Chemotherapy is a common treatment for cancer that uses drugs to kill cancer cells.",chemotherapy,"Cancer Treatment",2024-03-03,19,43,true
+2005,"Radiation therapy uses high doses of radiation to kill cancer cells or shrink tumors.",radiation_therapy,"Cancer Treatment",2024-03-02,14,30,true
+2006,"Skin cancer can often be prevented by using sunscreen and avoiding excessive sun exposure.",skin_cancer,"Prevention Tips",2024-03-01,16,35,true
+2007,"A healthy lifestyle, including a balanced diet and regular exercise, can reduce the risk of cancer.",cancer_prevention,"Healthy Living",2024-02-29,21,48,true
+2008,"Cancer can affect people of all ages, but the risk increases with age.",cancer_age,"Health Facts",2024-02-28,12,25,true
+2009,"Tobacco use is responsible for about 22% of cancer deaths worldwide.",cancer_tobacco,"Health Info",2024-02-27,18,42,true
+2010,"The most common types of cancer are breast, lung, colorectal, and prostate cancer.",common_cancers,"Cancer Facts",2024-02-26,17,38,true
+2011,"Cancer screening tests can help detect cancer early when it is most treatable.",cancer_screening,"Health Tips",2024-02-25,20,50,true
+2012,"Obesity increases the risk of developing several types of cancer, including breast and colon cancer.",cancer_obesity,"Health Info",2024-02-24,16,32,true
+2013,"Exposure to radiation, including UV rays from the sun, increases the risk of skin cancer.",cancer_uv,"Health Tips",2024-02-23,14,28,true
+2014,"A family history of cancer can increase a person's risk of developing cancer.",cancer_genetics,"Health Facts",2024-02-22,18,40,true
+2015,"Vaccines like the HPV vaccine can help prevent certain types of cancer, such as cervical cancer.",cancer_vaccine,"Prevention Tips",2024-02-21,22,50,true
+2016,"Some cancers have no symptoms in their early stages, making regular screenings crucial.",cancer_symptoms,"Health Guide",2024-02-20,19,42,true
+2017,"Cancer is the second leading cause of death globally.",cancer_death,"Global Health",2024-02-19,15,30,true
+2018,"Leukemia is a type of cancer that affects blood and bone marrow.",leukemia,"Cancer Types",2024-02-18,13,26,true
+2019,"Palliative care focuses on improving the quality of life for cancer patients.",palliative_care,"Cancer Care",2024-02-17,18,40,true
+2020,"Cancer treatments can cause side effects like fatigue, nausea, and hair loss.",cancer_treatment,"Health Info",2024-02-16,17,38,true
+2021,"Early detection of breast cancer through mammograms can save lives.",breast_cancer_screening,"Health Tips",2024-02-15,20,50,true
+2022,"Certain chemicals in the environment, like asbestos, can increase cancer risk.",cancer_chemicals,"Health Info",2024-02-14,14,28,true
+2023,"Cancer cells can spread to other parts of the body through the bloodstream or lymph system.",cancer_spread,"Health Facts",2024-02-13,19,42,true
+2024,"Regular physical activity can lower the risk of certain types of cancer.",cancer_exercise,"Healthy Living",2024-02-12,21,48,true
+2025,"Quitting smoking can significantly reduce the risk of developing lung cancer.",quit_smoking,"Prevention Tips",2024-02-11,18,42,true
+2026,"Prostate cancer is the most common cancer among men.",prostate_cancer,"Health Facts",2024-02-10,17,38,true
+2027,"Cancer research is constantly evolving, leading to new treatments and therapies.",cancer_research,"Health Info",2024-02-09,20,50,true
+2028,"A biopsy is often required to confirm a cancer diagnosis.",cancer_biopsy,"Cancer Diagnosis",2024-02-08,15,32,true
+2029,"Pain management is an important part of cancer care.",cancer_pain,"Cancer Care",2024-02-07,16,35,true
+2030,"Cancer survivors may experience long-term effects from their treatment.",cancer_survivor,"Cancer Care",2024-02-06,14,28,true
+2031,"Cancer can result from genetic mutations in DNA.",cancer_mutation,"Health Info",2024-02-05,18,40,true
+2032,"Immunotherapy is a treatment that uses the body's immune system to fight cancer.",immunotherapy,"Cancer Treatment",2024-02-04,22,50,true
+2033,"Cancer can develop in almost any part of the body.",cancer_body,"Health Facts",2024-02-03,17,38,true
+2034,"Support groups can help cancer patients and their families cope with the disease.",cancer_support,"Wellness Tips",2024-02-02,20,50,true
+2035,"The cost of cancer treatment can be very high, causing financial burden.",cancer_cost,"Health Info",2024-02-01,16,32,true
+2036,"Reducing alcohol consumption can lower the risk of certain types of cancer.",cancer_alcohol,"Prevention Tips",2024-01-31,14,28,true
+2037,"Skin cancer is the most common type of cancer globally.",skin_cancer_common,"Health Facts",2024-01-30,18,40,true
+2038,"Unexplained weight loss can be an early sign of cancer.",cancer_weight_loss,"Health Info",2024-01-29,19,42,true
+2039,"Regular dental check-ups can help detect oral cancer early.",oral_cancer,"Health Tips",2024-01-28,15,30,true
+2040,"The survival rate for cancer has improved significantly over the last few decades.",cancer_survival,"Health Facts",2024-01-27,21,48,true
+2041,"Early treatment of cancer greatly increases the chances of survival.",cancer_early_treatment,"Health Tips",2024-01-26,20,50,true
+2042,"Exposure to secondhand smoke also increases the risk of lung cancer.",secondhand_smoke,"Health Info",2024-01-25,18,42,true
+2043,"Many cancer patients experience anxiety and depression.",cancer_mental_health,"Cancer Care",2024-01-24,17,38,true
+2044,"Targeted therapy is a cancer treatment that targets specific genes or proteins.",targeted_therapy,"Cancer Treatment",2024-01-23,22,50,true
+2045,"Consuming a high-fiber diet may reduce the risk of colorectal cancer.",cancer_diet,"Health Tips",2024-01-22,21,48,true
+2046,"Screening for cervical cancer is recommended for women starting at age 21.",cervical_cancer,"Health Info",2024-01-21,19,42,true
+2047,"Cancer can be emotionally and physically challenging for both patients and families.",cancer_challenge,"Wellness Tips",2024-01-20,20,50,true
+2048,"Having a strong support system can help cancer patients cope better.",cancer_support_system,"Wellness Tips",2024-01-19,18,42,true
+2049,"Cancer prevention is possible through lifestyle changes and regular screenings.",cancer_prevention,"Health Tips",2024-01-18,21,48,true
+2050,"The risk of developing cancer increases with prolonged exposure to carcinogens.",cancer_carcinogens,"Health Info",2024-01-17,20,50,true

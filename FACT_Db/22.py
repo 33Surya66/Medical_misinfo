@@ -23,8 +23,8 @@ GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini
 GEMINI_API_KEY = "AIzaSyCW0VhCjNztqKNkyQZcbYJKNk3HoPwNaDs"
 
 # Weaviate credentials
-weaviate_url = "https://yorqaaxaqn2qspctsa0ezg.c0.us-west3.gcp.weaviate.cloud"
-weaviate_api_key = "6ovKNoXIRJLVbmIcBrJcTK1HsSe3AoaGlidk"
+weaviate_url = "https://kevljiqstmkp1adi7rofw.c0.asia-southeast1.gcp.weaviate.cloud"
+weaviate_api_key = "j19hysrixS3ngxAoRW6iGrk89NrjZdKcyF9D"
 
 # Initialize Selenium
 chrome_options = Options()

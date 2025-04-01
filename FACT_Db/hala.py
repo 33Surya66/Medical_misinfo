@@ -23,8 +23,8 @@ GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini
 
 # Use environment variables for API keys when possible, with fallbacks for development
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "AIzaSyCW0VhCjNztqKNkyQZcbYJKNk3HoPwNaDs")
-weaviate_url = os.environ.get("WEAVIATE_URL", "https://yorqaaxaqn2qspctsa0ezg.c0.us-west3.gcp.weaviate.cloud")
-weaviate_api_key = os.environ.get("WEAVIATE_API_KEY", "6ovKNoXIRJLVbmIcBrJcTK1HsSe3AoaGlidk")
+weaviate_url = os.environ.get("WEAVIATE_URL", "https://kevljiqstmkp1adi7rofw.c0.asia-southeast1.gcp.weaviate.cloud")
+weaviate_api_key = os.environ.get("WEAVIATE_API_KEY", "j19hysrixS3ngxAoRW6iGrk89NrjZdKcyF9D")
 
 if not weaviate_url or not weaviate_api_key or not GEMINI_API_KEY:
     raise ValueError("All API keys and URLs must be set.")
