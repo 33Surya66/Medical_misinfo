@@ -164,7 +164,7 @@ If you use HealthFactFinder in your research, please cite:
 
 ```
 @software{ravi2025healthfactfinder,
-  author = {Ravi, Surya Chandra Prakash},
+  author = {Ravi Surya Chandra Prakash, Swayam Khatri, Renish Thesiya, Sushrut Nisal},
   title = {HealthFactFinder: Medical Misinformation Detection System},
   year = {2025},
   url = {https://github.com/33Surya66/HealthFactFinder}
