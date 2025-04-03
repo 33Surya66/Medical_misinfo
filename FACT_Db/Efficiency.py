@@ -1,6 +1,6 @@
 import os
 import pandas as pd
-import weaviate
+from weaviate import Client
 from weaviate.classes.init import Auth
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
