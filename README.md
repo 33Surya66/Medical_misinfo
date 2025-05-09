@@ -51,24 +51,6 @@ python verify_claims.py --input claims.txt --output results.json
 python verify_claim.py --claim "Drinking lemon water detoxifies the liver" --threshold 0.85
 ```
 
-### Python API
-
-```python
-from healthfactfinder import FactVerifier
-
-# Initialize the verifier
-verifier = FactVerifier()
-
-# Verify a claim
-result = verifier.verify("Excessive sugar consumption increases risk of type 2 diabetes")
-
-# Print results
-print(f"Claim: {result.claim}")
-print(f"Verification: {'Supported' if result.is_supported else 'Unsupported/Misleading'}")
-print(f"Confidence: {result.confidence:.2f}")
-print(f"Evidence: {result.evidence}")
-```
-
 ## System Architecture
 
 ```
