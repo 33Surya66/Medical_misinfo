@@ -156,5 +156,3 @@ If you use HealthFactFinder in your research, please cite:
 ## Contact
 
 Surya Chandra Prakash Ravi - [surya03.ravi@gmail.com](mailto:surya03.ravi@gmail.com)
-
-Project Link: [https://github.com/33Surya66/HealthFactFinder](https://github.com/33Surya66/HealthFactFinder)
